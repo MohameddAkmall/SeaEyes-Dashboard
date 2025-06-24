@@ -1,4 +1,4 @@
-# untitled2
+# SeaEyes-Dashboard
 
 A new Flutter project.
 
