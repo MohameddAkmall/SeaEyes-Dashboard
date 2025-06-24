@@ -36,12 +36,6 @@ The app displays live data from the boat’s sensors on a modern dashboard inter
 - **Hardware Integration:** Raspberry Pi, GPS, TfMini, HC-SR04 Ultrasonic, Sonar
 - **Data Visualization:** Custom radar UI, interactive map, weather cards
 
-## 📱 Screenshots
-
-<!-- Add actual screenshots here -->
-| Map View | Radar Sweep | Sensor Dashboard |
-|---------|-------------|------------------|
-| ![](images/map.png) | ![](images/radar.png) | ![](images/sensors.png) |
 
 ## 🔧 Setup
 
@@ -55,7 +49,7 @@ The app displays live data from the boat’s sensors on a modern dashboard inter
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/sea-eyes.git
+   git clone https://github.com/MohamedAkmall/sea-eyes.git
    cd sea-eyes
 Install dependencies:
 
